@@ -1,0 +1,15 @@
+C:\Users\Abhishek.Hatti\source\repos\AmazonUITests\AmazonUITests\bin\Debug\netcoreapp3.1\AmazonUITests.exe
+C:\Users\Abhishek.Hatti\source\repos\AmazonUITests\AmazonUITests\obj\Debug\netcoreapp3.1\AmazonUITests.csprojAssemblyReference.cache
+C:\Users\Abhishek.Hatti\source\repos\AmazonUITests\AmazonUITests\obj\Debug\netcoreapp3.1\AmazonUITests.AssemblyInfoInputs.cache
+C:\Users\Abhishek.Hatti\source\repos\AmazonUITests\AmazonUITests\obj\Debug\netcoreapp3.1\AmazonUITests.AssemblyInfo.cs
+C:\Users\Abhishek.Hatti\source\repos\AmazonUITests\AmazonUITests\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\Abhishek.Hatti\source\repos\AmazonUITests\AmazonUITests\bin\Debug\netcoreapp3.1\xunit.assert.dll
+C:\Users\Abhishek.Hatti\source\repos\AmazonUITests\AmazonUITests\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Users\Abhishek.Hatti\source\repos\AmazonUITests\AmazonUITests\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+C:\Users\Abhishek.Hatti\source\repos\AmazonUITests\AmazonUITests\obj\Debug\netcoreapp3.1\AmazonUITests.csproj.CopyComplete
+C:\Users\Abhishek.Hatti\source\repos\AmazonUITests\AmazonUITests\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Abhishek.Hatti\source\repos\AmazonUITests\AmazonUITests\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Abhishek.Hatti\source\repos\AmazonUITests\AmazonUITests\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Abhishek.Hatti\source\repos\AmazonUITests\AmazonUITests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Abhishek.Hatti\source\repos\AmazonUITests\AmazonUITests\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Abhishek.Hatti\source\repos\AmazonUITests\AmazonUITests\obj\Debug\netcoreapp3.1\AmazonUITests.csproj.CoreCompileInputs.cache
